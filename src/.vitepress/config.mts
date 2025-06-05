@@ -14,6 +14,7 @@ export default ({
     }
   },
   head: [
+    ['link', { rel: 'icon', href: 'img/logo_.png' }],
     //['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     //['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
     //['link', { href: 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap', rel: 'stylesheet' }],
@@ -21,7 +22,7 @@ export default ({
   ],
   themeConfig: {
     siteTitle: 'Fonaments de Programació',
-    logo: '/img/logo.png',
+    logo: '/img/logo_.png',
     nav: [
       { text: '🏠 Inici', link: '/index' },
       { text: '📋 Objectius', link: '/objectius' },
