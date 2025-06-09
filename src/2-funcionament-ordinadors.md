@@ -165,5 +165,5 @@ Quan obris una pàgina web:
 - **Velocitat extrema**: Milions d'operacions per segon
 
 ::: tip Preparació per a la programació
-Ara que entens com funciona un ordinador per dins, estàs preparat per aprendre com donar-li instruccions específiques mitjançant la programació. En el següent tema veurem què són els algoritmes i com crear instruccions que l'ordinador puga seguir.
+Ara que entens com funciona un ordinador per dins, estàs preparat per aprendre com donar-li instruccions específiques mitjançant la programació. En la següent secció veurem què són els algoritmes i com crear instruccions que l'ordinador puga seguir.
 :::
