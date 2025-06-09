@@ -28,7 +28,7 @@ export default ({
       { text: '📋 Objectius', link: '/objectius' },      { text: '📚 Continguts', items: [
         { text: '1. Introducció', link: '/1-introduccio' },
         { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
-        { text: '3. Algoritme', link: '/3-algoritme' },
+        { text: '3. Pensament-computacional', link: '/3-pensament-computacional' },
         { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
         { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
         { text: "6. Elements d'un Programa", link: '/6-elements' },
@@ -39,7 +39,7 @@ export default ({
       { text: '📚 Continguts', items: [
           { text: '1. Introducció', link: '/1-introduccio' },
           { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
-          { text: '3. Algoritme', link: '/3-algoritme' },
+          { text: '3. Pensament-computacional', link: '/3-pensament-computacional' },
           { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
           { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
           { text: "6. Elements d'un Programa", link: '/6-elements' },

@@ -149,20 +149,16 @@ Quan obris una pàgina web:
 3. Els servidors envien de volta la pàgina web
 4. El teu navegador mostra la pàgina en pantalla
 
-## 2.8. Conceptes clau per recordar
+## 2.8 Els programes: Instruccions que l'ordinador segueix
 
-**L'ordinador és una màquina que:**
+Tots els dies utilitzem programes sense adonar-nos-en:
 
-1. **Rebeix informació**: A través del teclat, ratolí, Internet...
-2. **Processa informació**: Segueix instruccions pas a pas
-3. **Emmagatzema informació**: En memòria temporal (RAM) i permanent (disc)
-4. **Envia informació**: A través de la pantalla, altaveus, Internet...
+- **Aplicacions del mòbil**: Instagram, WhatsApp, el calculador...
+- **Programes de l'ordinador**: Word, Excel, Chrome, els jocs...
+- **Sistemes**: El que fa que l'ordinador s'encenga i funcione
+- **Webs**: Quan entres a YouTube o Google, estàs usant programes
 
-**Tot açò ho fa utilitzant:**
-
-- **Sistema binari**: Només entèn 0s i 1s
-- **Instruccions simples**: Suma, resta, comparar, moure dades...
-- **Velocitat extrema**: Milions d'operacions per segon
+Cada un d'aquests programes va començar com un algoritme (una idea de com resoldre un problema) que després es va convertir en instruccions que la màquina pot executar.
 
 ::: tip Preparació per a la programació
 Ara que entens com funciona un ordinador per dins, estàs preparat per aprendre com donar-li instruccions específiques mitjançant la programació. En la següent secció veurem què són els algoritmes i com crear instruccions que l'ordinador puga seguir.
