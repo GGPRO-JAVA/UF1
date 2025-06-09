@@ -1,4 +1,4 @@
-# 2. Algoritme
+# 3. Algoritme
 
 Quan parlem d’un **algoritme**, ens referim a una sèrie de passos ordenats que ens permeten resoldre un problema. És com una recepta de cuina, però per a solucionar problemes amb l'ordinador. Per a que un algoritme siga realment útil, ha de complir amb certes característiques:
 
@@ -24,3 +24,24 @@ Si ens centrem en aquest últim, s’ha de detallar els passos necessaris per a 
 > 5. Abocar el café preparat en una tassa.
 > 
 > Aquest senzill exemple mostra com un algoritme guia pas a pas per a obtindre un resultat específic, en aquest cas, una tassa de café llesta per a gaudir.
+
+## 3.1 Tipus de programes que usem cada dia
+
+Tots els dies utilitzem programes sense adonar-nos-en:
+
+- **Aplicacions del mòbil**: Instagram, WhatsApp, el calculador...
+- **Programes de l'ordinador**: Word, Excel, Chrome, els jocs...
+- **Sistemes**: El que fa que l'ordinador s'encenga i funcione
+- **Webs**: Quan entres a YouTube o Google, estàs usant programes
+
+Cada un d'aquests programes va començar com un algoritme (una idea de com resoldre un problema) que després es va convertir en instruccions que la màquina pot executar.
+
+## 3.2 La connexió amb el maquinari
+
+Recorda el que vam veure en la secció anterior sobre com funcionen els ordinadors:
+
+- El **processador (CPU)** executa les instruccions del programa
+- La **memòria RAM** guarda temporalment les dades mentre el programa s'executa
+- El **disc dur** guarda el programa quan no s'està utilitzant
+
+És com si el programa fos la recepta del café, la CPU la cafetera que fa el treball, la RAM la taula on posem temporalment els ingredients mentre fem el café, i el disc dur l'armari on guardem la recepta quan no estem fent café.

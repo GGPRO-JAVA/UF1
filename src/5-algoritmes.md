@@ -1,4 +1,4 @@
-# 4. Representació d'Algoritmes
+# 5. Representació d'Algoritmes
 
 És necessari poder representar les instruccions o els passos d'un algoritme d'una manera ordenada que es puguen entendre.
 
@@ -9,7 +9,7 @@ pot resultar imprecís i ambigu.
 Per això existeixen millors tècniques per a poder representar els algoritmes
 com pseudocodi o els diagrames de flux.
 
-## 4.1 Pseudocodi
+## 5.1 Pseudocodi
 
 El Pseudocodi és una tècnica que permet substituir les instruccions
 d'un programa per frases que descriguen què ha de fer-se en llenguatge
@@ -48,7 +48,7 @@ natural.
 >
 > En crear un algoritme, no sols és important que realitze la seua tasca, sinó que també siga eficient i consuma la menor quantitat de recursos possible.
 
-## 4.2 Diagrama de flux
+## 5.2 Diagrama de flux
 
 El diagrama de flux és una tècnica que representa els elements dels
 algoritmes utilitzant símbols connectats entre ells.

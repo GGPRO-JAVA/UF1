@@ -1,8 +1,8 @@
-# 3. Cicle de Vida d’un Programa
+# 4. Cicle de Vida d’un Programa
 
 La creació d’un programa de programari segueix un procés estructurat que generalment es dividix en cinc fases principals: **definició**, **disseny**, **desenvolupament**, **implementació** i **manteniment**.
 
-## 3.1. Fase de Definició o Anàlisi
+## 4.1. Fase de Definició o Anàlisi
 
 La fase de definició és com planificar un viatge abans d'emprendre’l. En esta etapa, es tracta d’entendre exactament què es vol aconseguir amb el programa.
 
@@ -22,7 +22,7 @@ La fase de definició és com planificar un viatge abans d'emprendre’l. En est
 >- **Les interfícies del sistema**: Connexió amb serveis de tercers com aerolínies, hotels i plataformes de mapes per a mostrar rutes i ubicacions.
 >- **Criteris de validació**: Comprovar que l’aplicació pot generar itineraris que respecten les preferències i restriccions de l’usuari, assegurar que les dades de vols i hotels s’actualitzen correctament, i verificar que les recomanacions siguen rellevants.
 
-## 3.2. Fase de Disseny
+## 4.2. Fase de Disseny
 
 La fase de disseny és on es planifica com es construirà el programari. Es dissenya l’arquitectura del sistema i es detallen els components i les seues interaccions.
 
@@ -42,11 +42,11 @@ La fase de disseny és on es planifica com es construirà el programari. Es diss
 > 2. **Funcions del programa**: Es planifiquen funcions com la cerca de vols, el càlcul del cost total del viatge, i recomanacions d'activitats basades en les preferències de l'usuari.
 > 3. **Disseny descendent**: Es descompon el problema principal en subproblemes més simples, que després es resolen individualment. Per exemple, en lloc de dissenyar una única funció per a la "cerca de vols", es divideix en subfuncions com "buscar vols disponibles", "filtrar per preu", "ordenar per hora de sortida", etc.
 
-## 3.3. Fase de Desenvolupament
+## 4.3. Fase de Desenvolupament
 
 La fase de desenvolupament és on es converteix el disseny en un programari funcional a través de la codificació, proves i documentació.
 
-### 3.3.1 Codificació
+### 4.3.1 Codificació
 
 Aquí és on els desenvolupadors comencen a escriure el codi del programari basant-se en el disseny detallat.
 
@@ -62,7 +62,7 @@ Aquí és on els desenvolupadors comencen a escriure el codi del programari basa
 > - **Maneig de dades**: Es estructuren les dades en taules adequades, utilitzant bases de dades com **MySQL**, **PostgreSQL**, o **MongoDB** depenent de les necessitats.
 > - **Eines de desenvolupament**: Ús de **Git** per control de versions, i **Jenkins** o **GitHub Actions** per integració contínua.
 
-### 3.3.2 Proves
+### 4.3.2 Proves
 
 Les proves són fonamentals per garantir que el programari funcioni correctament i compleixi amb els requisits especificats.
 
@@ -81,7 +81,7 @@ Les proves són fonamentals per garantir que el programari funcioni correctament
 > - **Proves del sistema**: Es simula un gran nombre d'usuaris buscant vols i allotjaments simultàniament per avaluar el rendiment sota càrrega.
 > - **Proves d'acceptació**: Es realitza una sessió de prova amb usuaris reals que planifiquen un viatge utilitzant l'aplicació per assegurar-se que compleix amb les seves expectatives.
 
-## 3.4. Fase d'Implementació
+## 4.4. Fase d'Implementació
 
 La fase d'implementació se centra a fer que el programari estigui disponible per al seu ús pels usuaris finals.
 
@@ -99,11 +99,11 @@ La fase d'implementació se centra a fer que el programari estigui disponible pe
 > - **Formació d'Usuaris**: S'organitzen webinars per ensenyar als usuaris com planificar viatges utilitzant l'aplicació.
 > - **Documentació d'Usuari**: Es creen manuals i vídeos que expliquen com utilitzar les funcions principals, com la cerca de vols i la creació d'itineraris.
 
-## 3.5. Fase de Manteniment
+## 4.5. Fase de Manteniment
 
 La fase de manteniment assegura que el programari continuï funcionant correctament i s'adapti a nous requisits o canvis en l'entorn operatiu.
 
-### 3.5.1 Activitats Principals
+### 4.5.1 Activitats Principals
 
 - **Correcció d'Errors**: Identificació i solució de problemes que surten després de la implementació. Els errors es gestionen utilitzant sistemes de gestió d'incidències com **JIRA** o **Bugzilla**.
 
@@ -111,7 +111,7 @@ La fase de manteniment assegura que el programari continuï funcionant correctam
 
 - **Adaptació a Nous Requisits**: Modificació del programari per satisfer canvis en els requisits de l'usuari o en l'entorn, com noves normatives legals o canvis tecnològics.
 
-### 3.5.2 Procés de Manteniment
+### 4.5.2 Procés de Manteniment
 
 El procés de manteniment generalment segueix un cicle iteratiu que inclou:
 

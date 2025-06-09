@@ -12,4 +12,4 @@ Per a crear un programa efectiu, el programador necessita:
 
 Este procés de transformació pas a pas és el que anomenem un algoritme, que és com el cor de qualsevol programa.
 
-Comprendre estos conceptes bàsics ens ajuda a vore com la programació és una ferramenta poderosa per a resoldre problemes en el món real, convertint idees i processos en instruccions que un ordinador pot seguir per a fer les nostres vides més fàcils i eficients.
+Però per a comprendre completament com funciona la programació, també és important entendre com treballen físicament els ordinadors que executen els nostres programes. Més enllà del processament d'informació per a resoldre problemes, els ordinadors són màquines complexes amb components electrònics que transformen les nostres instruccions en accions reals.

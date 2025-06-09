@@ -25,26 +25,26 @@ export default ({
     logo: '/img/logo_.png',
     nav: [
       { text: '🏠 Inici', link: '/index' },
-      { text: '📋 Objectius', link: '/objectius' },
-      { text: '📚 Continguts', items: [
+      { text: '📋 Objectius', link: '/objectius' },      { text: '📚 Continguts', items: [
         { text: '1. Introducció', link: '/1-introduccio' },
-        { text: '2. Algoritme', link: '/2-algoritme' },
-        { text: '3. Cicle de Vida', link: '/3-cicle-vida' },
-        { text: "4. Representació d'Algoritmes", link: '/4-algoritmes' },
-        { text: "5. Elements d'un Programa", link: '/5-elements' },
-        { text: "Exemples", link: '/6-exemples' },
-        { text: "Exercicis", link: '/7-exercicis' },
+        { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
+        { text: '3. Algoritme', link: '/3-algoritme' },
+        { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
+        { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
+        { text: "6. Elements d'un Programa", link: '/6-elements' },
+        { text: "💡Exemples", link: '/7-exemples' },
+        { text: "✏️ Exercicis", link: '/8-exercicis' },
       ]}
-    ],
-    sidebar: [
+    ],    sidebar: [
       { text: '📚 Continguts', items: [
           { text: '1. Introducció', link: '/1-introduccio' },
-          { text: '2. Algoritme', link: '/2-algoritme' },
-          { text: '3. Cicle de Vida', link: '/3-cicle-vida' },
-          { text: "4. Representació d'Algoritmes", link: '/4-algoritmes' },
-          { text: "5. Elements d'un Programa", link: '/5-elements' },
-          { text: "💡Exemples", link: '/6-exemples' },
-          { text: "✏️Exercicis", link: '/7-exercicis' },
+          { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
+          { text: '3. Algoritme', link: '/3-algoritme' },
+          { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
+          { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
+          { text: "6. Elements d'un Programa", link: '/6-elements' },
+          { text: "💡Exemples", link: '/7-exemples' },
+          { text: "✏️ Exercicis", link: '/8-exercicis' },
           { text: '<img src="img/logo-gva.png" class="logo-anim" style="vertical-align:middle; height:150px; margin-top:100px;">', link: '' },
           { text: '<img src="img/logo-centro.png" class="logo-anim" style="vertical-align:middle; height:150px;">', link: '' }
         ]
