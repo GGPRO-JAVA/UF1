@@ -30,10 +30,9 @@ export default ({
         { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
         { text: '3. Pensament-computacional', link: '/3-pensament-computacional' },
         { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
-        { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
-        { text: "6. Elements d'un Programa", link: '/6-elements' },
-        { text: "💡Exemples", link: '/7-exemples' },
-        { text: "✏️ Exercicis", link: '/8-exercicis' },
+        { text: "5. Elements d'un Programa", link: '/5-elements' },
+        { text: "💡Exemples", link: '/6-exemples' },
+        { text: "✏️ Exercicis", link: '/7-exercicis' },
       ]}
     ],    sidebar: [
       { text: '📚 Continguts', items: [
@@ -41,10 +40,9 @@ export default ({
           { text: '2. Com funcionen els ordinadors', link: '/2-funcionament-ordinadors' },
           { text: '3. Pensament-computacional', link: '/3-pensament-computacional' },
           { text: '4. Cicle de Vida', link: '/4-cicle-vida' },
-          { text: "5. Representació d'Algoritmes", link: '/5-algoritmes' },
-          { text: "6. Elements d'un Programa", link: '/6-elements' },
-          { text: "💡Exemples", link: '/7-exemples' },
-          { text: "✏️ Exercicis", link: '/8-exercicis' },
+          { text: "5. Elements d'un Programa", link: '/5-elements' },
+          { text: "💡Exemples", link: '/6-exemples' },
+          { text: "✏️ Exercicis", link: '/7-exercicis' },
           { text: '<img src="img/logo-gva.png" class="logo-anim" style="vertical-align:middle; height:150px; margin-top:100px;">', link: '' },
           { text: '<img src="img/logo-centro.png" class="logo-anim" style="vertical-align:middle; height:150px;">', link: '' }
         ]
