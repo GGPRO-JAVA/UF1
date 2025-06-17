@@ -1,34 +1,34 @@
-# 4. Cicle de Vida d’un Programa
+# 4. Cicle de Vida d'un Programa
 
-La creació d’un programa de programari segueix un procés estructurat que generalment es dividix en cinc fases principals: **definició**, **disseny**, **desenvolupament**, **implementació** i **manteniment**.
+La creació d'un programa de programari segueix un procés estructurat que generalment es dividix en cinc fases principals: **definició**, **disseny**, **desenvolupament**, **implementació** i **manteniment**.
 
 ## 4.1. Fase de Definició o Anàlisi
 
-La fase de definició és com planificar un viatge abans d'emprendre’l. En esta etapa, es tracta d’entendre exactament què es vol aconseguir amb el programa.
+La fase de definició és com planificar un viatge abans d'emprendre'l. En esta etapa, es tracta d'entendre exactament què es vol aconseguir amb el programa.
 
 ### Activitats Principals
 
-- **Definició del Problema**: Es comença per definir quin tipus d’**informació va a manejar** el programa, quines tasques o **funcions ha de poder realitzar**, i com va a interactuar amb altres parts del sistema o amb els usuaris.
+- **Definició del Problema**: Es comença per definir quin tipus d'**informació va a manejar** el programa, quines tasques o **funcions ha de poder realitzar**, i com va a interactuar amb altres parts del sistema o amb els usuaris.
 
 - **Recopilació de Requisits**: Identificació de qualsevol **condició o restricció** que puga influir en el desenvolupament del programa. A més, es detallen les "**interfícies**", que són els punts de connexió del programa amb altres sistemes o components.
 
-- **Documentació**: Establiment dels **criteris de validació**, que són les formes en què comprovarem si el programa funciona com s’espera. Al final d'esta fase, es documenta tot de manera detallada, incloent la situació inicial, els resultats esperats i la situació final desitjada.
+- **Documentació**: Establiment dels **criteris de validació**, que són les formes en què comprovarem si el programa funciona com s'espera. Al final d'esta fase, es documenta tot de manera detallada, incloent la situació inicial, els resultats esperats i la situació final desitjada.
 
 > ***Exemple: Aplicació per a planificar un viatge***
 >
->- **La informació que el sistema ha d'utilitzar**: Dades com la ciutat d’origen, la ciutat de destinació, les dates de viatge, els punts d’interés a visitar, el pressupost disponible, entre altres.
->- **Les funcions que ha de realitzar**: Permetre buscar vols i allotjaments, recomanar itineraris d'acord amb els interessos de l’usuari, calcular costos aproximats del viatge, oferir opcions de transport local, etc.
->- **Les condicions o restriccions existents**: Considerar restriccions de pressupost, disponibilitat de dates, restriccions de viatge degut a pandèmies o situacions d’emergència, requisits de visat, etc.
+>- **La informació que el sistema ha d'utilitzar**: Dades com la ciutat d'origen, la ciutat de destinació, les dates de viatge, els punts d'interés a visitar, el pressupost disponible, entre altres.
+>- **Les funcions que ha de realitzar**: Permetre buscar vols i allotjaments, recomanar itineraris d'acord amb els interessos de l'usuari, calcular costos aproximats del viatge, oferir opcions de transport local, etc.
+>- **Les condicions o restriccions existents**: Considerar restriccions de pressupost, disponibilitat de dates, restriccions de viatge degut a pandèmies o situacions d'emergència, requisits de visat, etc.
 >- **Les interfícies del sistema**: Connexió amb serveis de tercers com aerolínies, hotels i plataformes de mapes per a mostrar rutes i ubicacions.
->- **Criteris de validació**: Comprovar que l’aplicació pot generar itineraris que respecten les preferències i restriccions de l’usuari, assegurar que les dades de vols i hotels s’actualitzen correctament, i verificar que les recomanacions siguen rellevants.
+>- **Criteris de validació**: Comprovar que l'aplicació pot generar itineraris que respecten les preferències i restriccions de l'usuari, assegurar que les dades de vols i hotels s'actualitzen correctament, i verificar que les recomanacions siguen rellevants.
 
 ## 4.2. Fase de Disseny
 
-La fase de disseny és on es planifica com es construirà el programari. Es dissenya l’arquitectura del sistema i es detallen els components i les seues interaccions.
+La fase de disseny és on es planifica com es construirà el programari. Es dissenya l'arquitectura del sistema i es detallen els components i les seues interaccions.
 
 ### Activitats Principals
 
-- **Disseny d'Alt Nivell**: Creació de l’arquitectura del sistema, definint els principals components i com interactuen entre si. Açò inclou decisions sobre patrons de disseny, com arquitectura en capes, microserveis, etc.
+- **Disseny d'Alt Nivell**: Creació de l'arquitectura del sistema, definint els principals components i com interactuen entre si. Açò inclou decisions sobre patrons de disseny, com arquitectura en capes, microserveis, etc.
 
 - **Disseny Detallat**: Especificació detallada de les estructures de dades, algoritmes i la implementació dels components del programari. Ací es defineixen els mètodes específics que cada component utilitzarà per a complir amb els requisits funcionals i no funcionals.
 
@@ -54,7 +54,7 @@ Aquí és on els desenvolupadors comencen a escriure el codi del programari basa
 
 - **Documentació del Codi**: Incloure comentaris i documentació per facilitar la comprensió i manteniment del codi. Aquesta documentació inclou comentaris inline, documentació de mètodes, i guies d'estil de codi.
 
-- **Normes de Codificació**: Ús d'estructures clares, convencions de nomenclatura descriptives, i comentaris útils per assegurar un codi mantenible. A més, es segueixen pràctiques com **principis SOLID**, **DRY** (Don’t Repeat Yourself), i **KISS** (Keep It Simple, Stupid).
+- **Normes de Codificació**: Ús d'estructures clares, convencions de nomenclatura descriptives, i comentaris útils per assegurar un codi mantenible. A més, es segueixen pràctiques com **principis SOLID**, **DRY** (Don't Repeat Yourself), i **KISS** (Keep It Simple, Stupid).
 
 > ***Exemple: Aplicació per planificar un viatge***
 >
