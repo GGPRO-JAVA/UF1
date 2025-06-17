@@ -88,15 +88,20 @@ Si ens centrem en aquest últim, s'ha de detallar els passos necessaris per a tr
 >   - Buscar el café mòlt
 >   - Col·locar aigua en la cafetera
 >   - Afegir el café mòlt en el filtre
+<<<<<<< HEAD
 >   - Encenar la cafetera
 >   - Esperar que l'aigua calenta passe pel café mòlt
+=======
+>   - Encendre la cafetera
+>   - Esperar que l’aigua calenta passe pel café mòlt
+>>>>>>> cc1fef8bd671b792ac8a3f09f6188646e24f3374
 >   - Abocar el café en una tassa
 > - **Patrons**:
 >   - Sempre buscar els ingredients → preparar → servir
 > - **Abstracció**:
 >   - L'usuari no necessita saber com funciona la cafetera internament
 > - **Algoritme**:
-> 
+>
 > - **Dades d'entrada**: Café mòlt, aigua, cafetera, tassa.
 > - **Dada d'eixida**: Tassa de café.
 > **Procediment**:
@@ -107,7 +112,7 @@ Si ens centrem en aquest últim, s'ha de detallar els passos necessaris per a tr
 > 5. Col·locar el filtre amb café en la cafetera.
 > 6. Encendre la cafetera i esperar que l'aigua calenta passe pel café mòlt.
 > 7. Abocar el café preparat en una tassa.
-> 
+>
 > Aquest exemple mostra com un algoritme guia pas a pas per a obtindre un resultat específic, en aquest cas, una tassa de café llesta per a gaudir.
 
 ## 3.3 La connexió amb el maquinari
@@ -119,3 +124,12 @@ Recorda el que vam veure en la secció anterior sobre com funcionen els ordinado
 - El **disc dur** guarda el programa quan no s'està utilitzant
 
 És com si el programa fos la recepta del café, la CPU la cafetera que fa el treball, la RAM la taula on posem temporalment els ingredients mentre fem el café, i el disc dur l'armari on guardem la recepta quan no estem fent café.
+
+::: tip Conceptes clau per recordar
+- **Descomposició**: Dividir problemes en parts més xicotetes.
+- **Patrons**: Reutilitzar solucions per a problemes similars.
+- **Abstracció**: Ignorar detalls irrellevants per a centrar-se en el que importa.
+- **Algoritme**: Instruccions pas a pas per a resoldre un problema.
+- **Pensament computacional**: Aplicar aquests conceptes per a resoldre problemes de manera eficient.
+- **Programació**: Utilitzar el pensament computacional per a escriure codi que l'ordinador entenga.
+:::

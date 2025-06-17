@@ -1,6 +1,6 @@
-# 6. Elements d'un programa
+# 5. Elements d'un programa
 
-## 6.1 Dades
+## 5.1 Dades
 
 Les dades són la base de qualsevol programa informàtic, utilitzades per a realitzar operacions i generar resultats.
 
@@ -25,7 +25,7 @@ Aquestes dades emmagatzemades poden ser de dos tipus **variables** o **constants
 > La dada amb nom `edat` té assignada la posició de memòria `0X0003`. En aquesta posició és on està guardat el valor d'edat en aquest cas `30`.
 > ![Imatge de la dada edat guardada en memòria](/uf1/4.1.png)
 
-### 6.1.1 Constants
+### 5.1.1 Constants
 
 Les constants són elements el valor dels quals roman invariable durant l'execució del programa. S'utilitzen per a representar valors específics que no canvien, facilitant la modificació i la comprensió del codi.
 
@@ -57,7 +57,7 @@ Les constants són elements el valor dels quals roman invariable durant l'execuc
 
 Les constants permeten que valors crucials, com taxes d'impostos, valors matemàtics o límits operacionals, siguen definits en un sol lloc. Això simplifica la seua actualització i evita errors.
 
-### 6.1.2 Variables
+### 5.1.2 Variables
 
 Les variables són elements el valor dels quals pot canviar al llarg de l'execució del programa. Permeten emmagatzemar i manipular dades que poden canviar durant l'execució del programa.
 
@@ -79,9 +79,9 @@ Les variables són elements el valor dels quals pot canviar al llarg de l'execuc
 > - Valor de la dada: quantitat per preu
 > ```
 
-## 6.2 Expressions i operadors
+## 5.2 Expressions i operadors
 
-### 6.2.1 Expressions
+### 5.2.1 Expressions
 
 Una expressió és una combinació de valors, variables, i operadors que s'avaluen per a produir un nou valor. Poden ser simples, com constants o variables, o complexes, combinant operadors i altres expressions.
 
@@ -93,7 +93,7 @@ Segons el resultat de cada expressió, es classifiquen en:
 - **Alfanumèriques**: Produeixen resultats de tipus text.  
 - **Booleanes o Lògiques**: Produeixen resultats Vertader o Fals.  
 
-### 6.2.2 Operadors
+### 5.2.2 Operadors
 
 Els operadors són símbols que indiquen una operació a realitzar entre operands.
 
@@ -209,7 +209,7 @@ Al valor, resultat de cada operació de comparació, el cridarem **"Entrada"**
   3. Si el valor d'alguna de les dues entrades (A o B) és F, el valor de l'operació I serà F i s'assignarà a `esValid`.
   4. Si el valor de les dues entrades (A i B) és V, el valor de l'operació I serà V i s'assignarà a `esValid`.
 
-### 6.2.3 Prioritat i direccionament d'operadors
+### 5.2.3 Prioritat i direccionament d'operadors
 
 Quan en una expressió apareixen moltes operacions diferents és necessari en quin ordre cal realitzar les operacions per a aconseguir el resultat correcte.
 
@@ -307,3 +307,12 @@ La següent taula mostra la prioritat i el direccionament en l'avaluació d'oper
 > 10. Assignació ←:
 >
 > - resultat ara conté el valor alfanumèric "21.33 text Vertader".
+
+::: tip Conceptes clau per recordar
+- **Dades**: Són la base de qualsevol programa, emmagatzemades en memòria.
+- **Variables**: Dades que poden canviar durant l'execució del programa.
+- **Constants**: Dades que romanen invariables durant l'execució del programa.
+- **Expressions**: Combinacions de valors, variables i operadors que s'avaluen per a produir un nou valor.
+- **Operadors**: Són símbols que indiquen una operació a realitzar entre operands.
+- **Prioritat i direccionament d'operadors**: Determinen l'ordre en què s'avaluen les operacions en una expressió.
+:::

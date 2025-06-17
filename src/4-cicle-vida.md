@@ -128,3 +128,12 @@ El procés de manteniment generalment segueix un cicle iteratiu que inclou:
 > - **Correcció d'Errors**: Es corregeixen errors detectats pels usuaris o identificats mitjançant proves continuades, com problemes amb la connexió a serveis de tercers o errors en la generació d'itineraris.
 > - **Actualització i Millores**: S'afegeixen noves funcions, com suggeriments personalitzats basats en l'historial de viatges de l'usuari, o millores en la velocitat de la cerca de vols.
 > - **Adaptació a Nous Requisits**: S'adapta l'aplicació a nous requeriments, com canvis en polítiques de viatge degut a situacions globals o la integració amb noves APIs de serveis de viatges.
+
+::: tip Conceptes clau per recordar
+- La **fase de definició** estableix els requisits i l'abast del projecte.
+- La **fase de disseny** planifica l'arquitectura i els components del programari.
+- La **fase de desenvolupament** implica la codificació, proves i documentació del programari.
+- La **fase d'implementació** fa que el programari estiga disponible per als usuaris finals.
+- La **fase de manteniment** assegura que el programari continue funcionant correctament i s'adapte a nous requisits.
+- El **cicle de vida del programari** és un procés iteratiu que pot repetir-se per a millorar contínuament el producte.
+:::

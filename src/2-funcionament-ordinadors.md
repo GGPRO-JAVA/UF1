@@ -160,6 +160,16 @@ Tots els dies utilitzem programes sense adonar-nos-en:
 
 Cada un d'aquests programes va començar com un algoritme (una idea de com resoldre un problema) que després es va convertir en instruccions que la màquina pot executar.
 
-::: tip Preparació per a la programació
-Ara que entens com funciona un ordinador per dins, estàs preparat per aprendre com donar-li instruccions específiques mitjançant la programació. En la següent secció veurem què són els algoritmes i com crear instruccions que l'ordinador puga seguir.
+::: tip Conceptes clau per recordar
+- **Processador (CPU)**: El cervell de l'ordinador
+- **Memòria RAM**: On es guarden les dades temporals
+- **Disc dur**: On es guarden les dades permanents
+- **Sistema binari**: El llenguatge dels ordinadors (1 i 0)
+- **Sistema operatiu**: L'organitzador de l'ordinador
+- **Dispositius d'entrada i eixida**: Com ens comuniquem amb l'ordinador
+- **Xarxes**: Com els ordinadors es connecten entre si
+- **Programes**: Instruccions que l'ordinador segueix per fer tasques
+- **Algoritmes**: Idees que es converteixen en programes
+- **Aplicacions**: Programes que fem servir diàriament
+- **Webs**: Programes que funcionen en línia
 :::
