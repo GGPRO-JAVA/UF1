@@ -50,7 +50,7 @@ Centrar-se en els aspectes importants i ignorar els detalls irrellevants.
 
 ### **4. Algoritme**
 
-Quan parlem d’un **algoritme**, ens referim a una sèrie de passos ordenats que ens permeten resoldre un problema. És com una recepta de cuina, però per a solucionar problemes amb l'ordinador. 
+Quan parlem d'un **algoritme**, ens referim a una sèrie de passos ordenats que ens permeten resoldre un problema. És com una recepta de cuina, però per a solucionar problemes amb l'ordinador. 
 
 #### 4.1. Aplicacions en la vida quotidiana
 
@@ -74,14 +74,14 @@ Quan programem, utilitzem aquests mateixos conceptes:
 
 Per a que un algoritme siga realment útil, ha de complir amb certes característiques:
 
-1. **Té un nombre finit de passos**: No pot ser una llista interminable d’instruccions.
+1. **Té un nombre finit de passos**: No pot ser una llista interminable d'instruccions.
 2. **Sempre acaba en algun moment**: Si no tinguera fi, no estaríem resolent res.
 3. **Cada pas està definit amb claredat**: No pot haver-hi instruccions ambigües o confuses.
 4. **Pot treballar amb diferents dades d'entrada**: Com quan usem la mateixa recepta però canviem les quantitats dels ingredients.
 5. **Produeix almenys un resultat**: Al final, ha de donar-nos la solució que busquem.
 
 Un exemple comú per a il·lustrar un algoritme és una recepta de cuina, com muntar un moble o com preparar una tassa de café.
-Si ens centrem en aquest últim, s’ha de detallar els passos necessaris per a transformar els ingredients i utensilis (dades d'entrada) en una tassa de café (dada d'eixida), amb instruccions clares i un temps de preparació finit.
+Si ens centrem en aquest últim, s'ha de detallar els passos necessaris per a transformar els ingredients i utensilis (dades d'entrada) en una tassa de café (dada d'eixida), amb instruccions clares i un temps de preparació finit.
 
 > ***Exemple: Com preparar una tassa de café***
 > - **Descomposició**:
@@ -89,7 +89,7 @@ Si ens centrem en aquest últim, s’ha de detallar els passos necessaris per a 
 >   - Col·locar aigua en la cafetera
 >   - Afegir el café mòlt en el filtre
 >   - Encendre la cafetera
->   - Esperar que l’aigua calenta passe pel café mòlt
+>   - Esperar que l'aigua calenta passe pel café mòlt
 >   - Abocar el café en una tassa
 > - **Patrons**:
 >   - Sempre buscar els ingredients → preparar → servir

@@ -28,11 +28,11 @@ Aquest curs està dissenyat per introduir-vos als fonaments essencials de la pro
 :::
 
 ::: tip [**UF3. Introducció a Java**](https://ggpro-java.github.io/UF3/)  
-  Primers passos amb el llenguatge Java: sintaxi bàsica, tipus de dades i estructura d’un programa.
+  Primers passos amb el llenguatge Java: sintaxi bàsica, tipus de dades i estructura d'un programa.
 :::
 
 ::: tip [**UF4. Bucles**](https://ggpro-java.github.io/UF4/)  
-  Ús d’estructures repetitives com `while`, `for` i `do-while` per controlar el flux del programa.
+  Ús d'estructures repetitives com `while`, `for` i `do-while` per controlar el flux del programa.
 :::
 
 ::: tip [**UF5. Vectors**](https://ggpro-java.github.io/UF5/)  
@@ -52,7 +52,7 @@ Aquest curs està dissenyat per introduir-vos als fonaments essencials de la pro
 :::
 
 ::: tip [**UF9. Excepcions**](https://ggpro-java.github.io/UF9/)  
-  Gestió d’errors mitjançant excepcions: `try`, `catch`, `throw` i `finally`.
+  Gestió d'errors mitjançant excepcions: `try`, `catch`, `throw` i `finally`.
 :::
 
 ::: tip [**UF10. Fitxers**](https://ggpro-java.github.io/UF10/)  
@@ -60,7 +60,7 @@ Aquest curs està dissenyat per introduir-vos als fonaments essencials de la pro
 :::
 
 ::: tip [**UF11. Interfícies gràfiques**](https://ggpro-java.github.io/UF11/)  
-  Creació d’aplicacions amb interfície gràfica utilitzant JavaFX o Swing.
+  Creació d'aplicacions amb interfície gràfica utilitzant JavaFX o Swing.
 :::
 
 ::: tip [**UF12. Accés a base de dades**](https://ggpro-java.github.io/UF12/)  
