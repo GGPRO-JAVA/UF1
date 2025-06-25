@@ -88,8 +88,17 @@ Si ens centrem en aquest últim, s'ha de detallar els passos necessaris per a tr
 >   - Buscar el café mòlt
 >   - Col·locar aigua en la cafetera
 >   - Afegir el café mòlt en el filtre
->   - Encendre la cafetera
+<<<<<<< HEAD
+>   - Encenar la cafetera
 >   - Esperar que l'aigua calenta passe pel café mòlt
+=======
+>   - Encendre la cafetera
+<<<<<<< HEAD
+>   - Esperar que l'aigua calenta passe pel café mòlt
+=======
+>   - Esperar que l’aigua calenta passe pel café mòlt
+>>>>>>> cc1fef8bd671b792ac8a3f09f6188646e24f3374
+>>>>>>> a4c262c3d56e24ab9706213840acbdc4ed30acf5
 >   - Abocar el café en una tassa
 > - **Patrons**:
 >   - Sempre buscar els ingredients → preparar → servir
