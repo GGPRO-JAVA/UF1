@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CPXxQzEi.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"3-algoritme.md","filePath":"3-algoritme.md"}'),r={name:"3-algoritme.md"};function o(s,c,n,i,m,_){return a(),t("div")}const d=e(r,[["render",o]]);export{p as __pageData,d as default};
